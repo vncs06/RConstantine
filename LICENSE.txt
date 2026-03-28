@@ -1,0 +1,34 @@
+CONTRATO DE LICENÇA DE USUÁRIO FINAL (EULA)
+
+IMPORTANTE – LEIA COM ATENÇÃO: Este Contrato de Licença de Usuário Final ("EULA") é um acordo legal entre você (pessoa física ou jurídica) e [SEU NOME COMPLETO OU NOME DA SUA EMPRESA] ("Licenciante") para o uso do software [NOME DO SOFTWARE], que inclui o software de computador e pode incluir mídias associadas, materiais impressos e documentação online ou eletrônica ("Software").
+
+AO INSTALAR, COPIAR OU DE OUTRA FORMA USAR O SOFTWARE, VOCÊ CONCORDA EM FICAR VINCULADO AOS TERMOS DESTE EULA. SE VOCÊ NÃO CONCORDAR COM OS TERMOS DESTE EULA, NÃO INSTALE NEM USE O SOFTWARE.
+
+1. CONCESSÃO DE LICENÇA
+O Software é licenciado, não vendido. O Licenciante concede a você o direito pessoal, revogável, não exclusivo e intransferível de instalar e usar uma (1) cópia do Software em um único dispositivo para seu uso pessoal ou comercial interno, estritamente de acordo com os termos deste contrato.
+
+2. RESTRIÇÕES DE USO
+Você não tem permissão para:
+
+    Copiar, modificar, adaptar, traduzir ou criar obras derivadas baseadas no Software.
+
+    Fazer engenharia reversa, descompilar, desmontar ou tentar descobrir o código-fonte do Software (exceto na medida em que a lei aplicável proíba expressamente essa restrição).
+
+    Alugar, arrendar, sublicenciar, distribuir ou transferir o Software ou os direitos concedidos sob este EULA a terceiros.
+
+    Remover, alterar ou ocultar qualquer aviso de direitos autorais ou marca registrada presente no Software.
+
+3. DIREITOS DE PROPRIEDADE INTELECTUAL
+Todos os direitos, títulos e interesses, incluindo, sem limitação, todos os direitos autorais, patentes, segredos comerciais e outros direitos de propriedade intelectual sobre o Software, são de propriedade exclusiva do Licenciante. O Software é protegido pelas leis de direitos autorais do Brasil (Lei nº 9.609/1998 e Lei nº 9.610/1998) e por tratados internacionais.
+
+4. ISENÇÃO DE GARANTIAS
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA" (AS IS), SEM NENHUMA GARANTIA DE QUALQUER TIPO. O LICENCIANTE NÃO GARANTE QUE O SOFTWARE ATENDERÁ AOS SEUS REQUISITOS, QUE A OPERAÇÃO DO SOFTWARE SERÁ ININTERRUPTA OU LIVRE DE ERROS, OU QUE OS DEFEITOS NO SOFTWARE SERÃO CORRIGIDOS. TODO O RISCO DECORRENTE DO USO OU DESEMPENHO DO SOFTWARE PERMANECE COM VOCÊ.
+
+5. LIMITAÇÃO DE RESPONSABILIDADE
+EM NENHUMA HIPÓTESE O LICENCIANTE SERÁ RESPONSÁVEL POR QUAISQUER DANOS INDIRETOS, ESPECIAIS, INCIDENTAIS, CONSEQUENCIAIS OU PUNITIVOS (INCLUINDO, SEM LIMITAÇÃO, DANOS POR PERDA DE LUCROS, INTERRUPÇÃO DE NEGÓCIOS, PERDA DE DADOS OU INFORMAÇÕES), DECORRENTES DO USO OU DA INCAPACIDADE DE USAR O SOFTWARE, MESMO QUE O LICENCIANTE TENHA SIDO AVISADO DA POSSIBILIDADE DE TAIS DANOS.
+
+6. RESCISÃO
+Sem prejuízo de quaisquer outros direitos, o Licenciante pode rescindir este EULA se você não cumprir com os termos e condições aqui estabelecidos. Nesse caso, você deve destruir todas as cópias do Software e todas as suas partes componentes imediatamente.
+
+7. LEGISLAÇÃO APLICÁVEL E FORO
+Este EULA será regido e interpretado de acordo com as leis da República Federativa do Brasil. Fica eleito o foro da Comarca de Manaus, Estado do Amazonas, para dirimir quaisquer dúvidas ou controvérsias oriundas deste contrato, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
