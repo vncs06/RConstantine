@@ -50,7 +50,7 @@ void Main()
         if (ValidationOfDest(path))
         {
             destExist = true;
-            destPath = path;
+            destPath = Path.Combine(path, Path.GetFileName(sourcePath));
         }
         else
         {
