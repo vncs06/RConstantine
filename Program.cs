@@ -10,6 +10,7 @@ host.Run();
 Main();
 void Main()
 {
+    Console.Clear();
     Console.WriteLine("======================================================");
     Console.WriteLine("Welcome to the RConstantine, you file transfer manager");
     Console.WriteLine("======================================================");
@@ -135,5 +136,37 @@ bool GetFile(string sourcePath, string destPath)
     }
 
     //feature: Make a method that will be responsable for create the logs
+
+}
+
+string errorException (string sourcePath, string destPath)
+{
+
+    //Primeiro Teste - tamanho do arquivo
+    var source = new FileInfo(sourcePath);
+    long byteSource = source.Length;
+
+    var dest = new FileInfo(destPath);
+    long byteDest = source.Length;
+
+    if (byteSource == byteDest)
+    {
+        return true;
+
+    }
+    else
+    {
+        return false;
+
+    }
+}
+
+void DeleteFileAndCreateLog(string path, string error)
+{
+    File.Delete(path);
+
+    string errorType = "";
+
+    
 
 }
